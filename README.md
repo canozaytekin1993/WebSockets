@@ -3,4 +3,4 @@ WebSocket  is a protocol that enables two-way persistent communication channels 
 
 ## How will you feel when using this tool?
 
-![GitHub Logo](https://media.giphy.com/media/l1IYbqyLSloejiLok/giphy.gif)
+![GitHub Logo](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
