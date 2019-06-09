@@ -1,4 +1,4 @@
-# WebSockets
+# ![Web Sockets](https://user-images.githubusercontent.com/27735701/59155581-7123d280-8a84-11e9-9462-b76cb1bd1bca.png)
 ## What is websockets?
 
 WebSocket  is a protocol that enables two-way persistent communication channels over TCP connections. It's used in apps that benefit from fast, real-time communication, such as chat, dashboard, and game apps.
